@@ -1,0 +1,7 @@
+# requirements.txt
+fastapi==0.104.0
+uvicorn==0.23.2
+pydantic==2.4.2
+openai==1.3.0
+python-dotenv==1.0.0
+OPENAI_API_KEY==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
